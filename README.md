@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ABammann
-- 👀 I’m interested in coding, cooking, nature and people's rights.
+- 👀 I’m interested in coding, cooking and nature
 - 🌱 I’m currently trying to improve my coding skills after having followed SheCodes training.
-- 💞️ I’m looking to collaborate on something? I am new to this so!
 - 📫 How to reach me: Facebook or LinkedIn
 
 <!---
